@@ -59,7 +59,8 @@ to remove them. The researcher2 user already had execute permissions, so they di
 
 I changed multiple permissions to match the level of authorization my organization wanted for files and directories in the **projects** directory. The first step was using ***ls -la*** to check the permissions for the directory. This informed my decisions in the following steps. I then used the ***chmod*** command multiple times to change the permissions on files and directories.
 
-Refer to file link: [Current file permissions](https://docs.google.com/document/d/11BOhE1g6YvFemT5ANsQoO2USuQvR8a9Wc0bKp3-6kuA/edit?tab=t.0#heading=h.dooa9fyvnog2)
+Ref 1 to file link: [Current file permissions](https://docs.google.com/document/d/11BOhE1g6YvFemT5ANsQoO2USuQvR8a9Wc0bKp3-6kuA/edit?tab=t.0#heading=h.dooa9fyvnog2)
+Ref 2 to link file: [Instructions for including Linux commands](https://docs.google.com/document/d/19JbIGtFBdPhJSFDybElhftjf-_Xb44lhWrcDFRNeAxo/edit?tab=t.0#heading=h.dooa9fyvnog2)
 
 
 
